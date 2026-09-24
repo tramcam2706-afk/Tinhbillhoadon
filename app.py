@@ -1,5 +1,4 @@
-import streamlit as st 
-st.image("logo1.jpg")
+import os
 from datetime import datetime
 import pandas as pd
 import streamlit as st
